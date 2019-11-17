@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "280617656035",
+    "firebase_url": "https://rnnotification-e6668.firebaseio.com",
+    "project_id": "rnnotification-e6668",
+    "storage_bucket": "rnnotification-e6668.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280617656035:android:1889ecdd7e22a878fd2fd6",
+        "android_client_info": {
+          "package_name": "com.rnnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280617656035-d7aif2833kpqiiv4plrd8gih1mg5h7uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-B0S0fPMzOCX2d76kiIUbNg7RcsxI9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280617656035-d7aif2833kpqiiv4plrd8gih1mg5h7uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
